@@ -7,7 +7,7 @@
 //HEROKU init
 // MAC --> brew tap heroku/brew && brew install heroku
 // heroku login
-// heroku create APP_NAME --> heroku create sherdg-task-app
+// heroku create APP_NAME --> heroku create sherdg-chat-app
 
 //HEROKU
 // git add --> commit --> push
